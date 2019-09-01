@@ -15,10 +15,10 @@ function App() {
         </p>
         <ul>
           <li>
-          <a href="https://www.w3schools.com"><b className = "brown" >BlackBerry</b>: The After Math</a>
+          <a href="https://seekingalpha.com/article/4288469-picking-winners-cyber-security-space?source=all_articles_title"><b className = "brown" >HACK</b>: Picking Winners In The Cyber Security Space</a>
           </li>
           <li>
-          <a href="https://www.w3schools.com"><b className = "blue">Cisco</b>: The Beginning of Nonsense</a>
+          <a href="https://seekingalpha.com/article/4288287-qualys-overpricing-growth?source=all_articles_title"><b className = "blue">Qualys</b>: Overpricing Growth</a>
           </li>
           <li>
           <a href="https://www.w3schools.com"><b className = "orange">Cisco</b>: The Beginning of Nonsense</a>
