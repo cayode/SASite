@@ -1,6 +1,7 @@
 .App {
   display: grid;
-  grid-template-columns: 1fr 2fr;
+  grid-template-columns: minmax(10px, 10%) 2fr;
+  grid-gap: 20px;
 }
 
 .profile {
@@ -9,7 +10,24 @@
 }
 
 .container {
-  width: 100%;
   display: flex;
+  flex-direction: column;
   justify-content: center;
+  align-items: center;
+  
+
+}
+
+li {
+  list-style-type: none;
+  padding: 20px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+  border-bottom: 1px solid grey;
+}
+a:hover {
+  color:yellow;
 }
