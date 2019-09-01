@@ -6,7 +6,7 @@
 
 .profile {
   background-color: black;
-  height: 100vh;
+  height: 100%;
 }
 
 .container {
@@ -21,13 +21,34 @@
 li {
   list-style-type: none;
   padding: 20px;
+  border-bottom: 1px solid grey;
 }
 
 a {
   color: black;
   text-decoration: none;
-  border-bottom: 1px solid grey;
+
 }
 a:hover {
   color:yellow;
+}
+
+.orange {
+  color: orange;
+}
+
+.red {
+  color:red;
+}
+
+.blue {
+  color:blue;
+}
+
+.green {
+  color:green;
+}
+
+.brown{
+  color:brown;
 }

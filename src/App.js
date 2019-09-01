@@ -15,16 +15,16 @@ function App() {
         </p>
         <ul>
           <li>
-          <a href="https://www.w3schools.com">Visit W3Schools</a>
+          <a href="https://www.w3schools.com"><b className = "brown" >BlackBerry</b>: The After Math</a>
           </li>
           <li>
-          <a href="https://www.w3schools.com">Visit W3Schools</a>
+          <a href="https://www.w3schools.com"><b className = "blue">Cisco</b>: The Beginning of Nonsense</a>
           </li>
           <li>
-          <a href="https://www.w3schools.com">Visit W3Schools</a>
+          <a href="https://www.w3schools.com"><b className = "orange">Cisco</b>: The Beginning of Nonsense</a>
           </li>
           <li>
-          <a href="https://www.w3schools.com">Visit W3Schools</a>
+          <a href="https://www.w3schools.com"><b className = "red">Cisco</b>: The Beginning of Nonsense</a>
           </li>
           <li>
           <a href="https://www.w3schools.com">Visit W3Schools</a>
