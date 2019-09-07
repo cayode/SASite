@@ -2,13 +2,16 @@
   display: grid;
   grid-template-columns: minmax(10px, 100px) 10% 60% 10%;
   grid-gap: 20px;
+  height: 100vh;
 }
 
 .profile {
   background-color: black;
+  
   height: 100%;
   display: flex;
   justify-content: center;
+  text-align: center;
 }
 
 .profile_name {

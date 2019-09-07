@@ -10,7 +10,7 @@ function App() {
 
       </section>
       <section className = "container">
-        <h1>All my Seeking Alpha articles</h1>
+        <h1>My Latest Seeking Alpha Articles</h1>
         <p>
           I guys, here are the links to all my published works on Seeking Alpha. It's been fun for me. I hope you enjoy them.
         </p>
@@ -22,58 +22,10 @@ function App() {
           <a href="https://seekingalpha.com/article/4288287-qualys-overpricing-growth?source=all_articles_title"><b className = "blue">Qualys</b>: Overpricing Growth</a>
           </li>
           <li>
-          <a href="https://www.w3schools.com"><b className = "orange">Cisco</b>: The Beginning of Nonsense</a>
+          <a href="https://seekingalpha.com/article/4288237-jumia-take?source=all_articles_title"><b className = "orange">Jumia</b>: Take Off</a>
           </li>
           <li>
-          <a href="https://www.w3schools.com"><b className = "red">Cisco</b>: The Beginning of Nonsense</a>
-          </li>
-          <li>
-          <a href="https://www.w3schools.com">Visit W3Schools</a>
-          </li>
-          <li>
-          <a href="https://www.w3schools.com">Visit W3Schools</a>
-          </li>
-          <li>
-          <a href="https://www.w3schools.com">Visit W3Schools</a>
-          </li>
-          <li>
-          <a href="https://www.w3schools.com">Visit W3Schools</a>
-          </li>
-          <li>
-          <a href="https://www.w3schools.com">Visit W3Schools</a>
-          </li>
-          <li>
-          <a href="https://www.w3schools.com">Visit W3Schools</a>
-          </li>
-          <li>
-          <a href="https://www.w3schools.com">Visit W3Schools</a>
-          </li>
-          <li>
-          <a href="https://www.w3schools.com">Visit W3Schools</a>
-          </li>
-          <li>
-          <a href="https://www.w3schools.com">Visit W3Schools</a>
-          </li>
-          <li>
-          <a href="https://www.w3schools.com">Visit W3Schools</a>
-          </li>
-          <li>
-          <a href="https://www.w3schools.com">Visit W3Schools</a>
-          </li>
-          <li>
-          <a href="https://www.w3schools.com">Visit W3Schools</a>
-          </li>
-          <li>
-          <a href="https://www.w3schools.com">Visit W3Schools</a>
-          </li>
-          <li>
-          <a href="https://www.w3schools.com">Visit W3Schools</a>
-          </li>
-          <li>
-          <a href="https://www.w3schools.com">Visit W3Schools</a>
-          </li>
-          <li>
-          <a href="https://www.w3schools.com">Visit W3Schools</a>
+          <a href="https://seekingalpha.com/article/4287834-rapid7-underrated?source=all_articles_title"><b className = "red">Rapid7</b>: Is Underrated</a>
           </li>
         </ul>
       </section>
