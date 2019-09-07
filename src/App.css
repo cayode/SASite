@@ -1,12 +1,21 @@
 .App {
   display: grid;
-  grid-template-columns: minmax(10px, 10%) 2fr;
+  grid-template-columns: minmax(10px, 100px) 10% 60% 10%;
   grid-gap: 20px;
 }
 
 .profile {
   background-color: black;
   height: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.profile_name {
+  color: white;
+  writing-mode: vertical-lr;
+margin-top: 50px;
+  position: fixed;
 }
 
 .container {
@@ -14,19 +23,26 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  grid-column: 3/4;
   
 
 }
 
 p {
   color: grey;
-  
+  text-transform: capitalize;
 }
 
 li {
   list-style-type: none;
-  padding: 20px;
+  padding: 20px 20px 20px 0px;
+  margin-left:0px;
   border-bottom: 1px solid grey;
+}
+
+ul {
+  margin-left: 0;
+  padding-left: 0;
 }
 
 a {

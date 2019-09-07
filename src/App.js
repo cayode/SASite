@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
       <section className = "profile">
+        <h1 className = "profile_name">Kayode Omotosho</h1>
 
       </section>
       <section className = "container">
